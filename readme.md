@@ -71,7 +71,7 @@
 ### Railways conferences
 
 * [Rail Data Forum](https://www.era.europa.eu/content/rail-data-forum-2024) - powered by European Union Agency for Railways
-* [RailML Conference](hhttps://www.railml.org/en/public-relations/news/reader/44th-railml-conference.html) - RailML conference
+* [RailML Conference](https://www.railml.org/en/public-relations/news/reader/44th-railml-conference.html) - RailML conference
 * [SEMIC](https://joinup.ec.europa.eu/collection/semic-support-centre/semic-conference) - EU SEMIC conference
   
 
