@@ -4,19 +4,21 @@
 
 ## Contents
 
-* [Ontologies](#ontologies)
-  * [Ontology Implementations](#ontology-implementations)
-  * [Academic Papers](#academic-papers) 
-* [Knowledge Graphs](#knowledge-graphs)
-  * [Sparql Endpoints](#sparql-endpoints)
-* [Applications](#applications)
-  * [Generic Applications](#generic-applications)
-  * [Community Effort](#community-effort)
-* [Conferences & Resources](#conferences)
-  * [Railways conferences](#railways-conferences)
-  * [Academic](#academic)
-  * [Inpiring resources](#inspiring-resources)
-  * [Others](#others)
+- [Awesome Semantics on Rails ](#awesome-semantics-on-rails-)
+  - [Contents](#contents)
+  - [Ontologies](#ontologies)
+    - [Ontology Implementations](#ontology-implementations)
+    - [Academic Papers](#academic-papers)
+  - [Knowledge Graphs](#knowledge-graphs)
+    - [Sparql Endpoints](#sparql-endpoints)
+    - [Semantic Network](#semantic-network)
+  - [Applications](#applications)
+    - [Generic Applications](#generic-applications)
+    - [Community Effort](#community-effort)
+  - [Conferences](#conferences)
+    - [Railways conferences](#railways-conferences)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Ontologies
 
