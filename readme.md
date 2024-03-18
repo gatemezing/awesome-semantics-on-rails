@@ -12,7 +12,7 @@
   - [Knowledge Graphs](#knowledge-graphs)
     - [Sparql Endpoints](#sparql-endpoints)
     - [SHACL Rules](#shacl-rules)
-    - [SKOS concepts](#skos-concepts)
+    - [SKOS Concepts](#skos-concepts)
   - [Applications](#applications)
     - [Generic Applications](#generic-applications)
     - [Community Effort](#community-effort)
@@ -39,6 +39,9 @@
 ### Sparql Endpoints
 
 * [ERA Endpoint](https://virtuoso.ecdp.tech.ec.europa.eu/sparql) - Sparql Endpoint of the European Union Agency for Railways containing more than 50 million triples of railway infrastructure and vehicle types. 
+* [Ontorail Endpoint](https://app.ontorail.org/graphdb/sparql) - Ontorail project Endpoint
+
+
 
 ### SHACL Rules
 
@@ -58,6 +61,9 @@
 
 
 ### Community Effort
+
+* [Ontorail project](https://app.ontorail.org/ontorail) - UIC project with a web application listing some conversions to semantics and glossaries
+
 
 
 ## Conferences
