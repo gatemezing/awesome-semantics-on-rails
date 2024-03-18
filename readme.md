@@ -11,7 +11,8 @@
     - [Academic Papers](#academic-papers)
   - [Knowledge Graphs](#knowledge-graphs)
     - [Sparql Endpoints](#sparql-endpoints)
-    - [Semantic Network](#semantic-network)
+    - [SHACL Rules](#shacl-rules)
+    - [SKOS concepts](#skos-concepts)
   - [Applications](#applications)
     - [Generic Applications](#generic-applications)
     - [Community Effort](#community-effort)
@@ -39,21 +40,19 @@
 
 * [ERA Endpoint](https://virtuoso.ecdp.tech.ec.europa.eu/sparql) - Sparql Endpoint of the European Union Agency for Railways containing more than 50 million triples of railway infrastructure and vehicle types. 
 
+### SHACL Rules
 
-### Semantic Network
+* [ERA SHACL Rules](https://data-interop.era.europa.eu/era-vocabulary/era-shapes) - ERA SHACL rules used for the ERA KG.
 
-* [ConceptNet](http://conceptnet.io/) - ConceptNet is a freely-available semantic network, designed to help computers understand the meanings of words that people use.
-* [Microsoft Concept Graph](https://concept.research.microsoft.com/) - For Short Text Understanding
-* [OpenHowNet](https://openhownet.thunlp.org) - An Open Sememe-based Lexical Knowledge Base in Chinese.
-* [WordNet](http://wordnet.princeton.edu/) - A free large lexical database of English from Princeton University.
+### SKOS Concepts
 
-
+* [ERA SKOS concepts](https://data-interop.era.europa.eu/era-vocabulary/skos/index.html) - ERA SKOS concepts used for the ERA KG.
 
 ## Applications
 
 ### Generic Applications
 
-* [Search](https://data-interop.era.europa.eu/search) - Searching form of resources in the ERA endpoint.
+* [Infrastructure Search](https://data-interop.era.europa.eu/search) - Searching form of resources in the ERA endpoint.
 * [Map Explorer](https://data-interop.era.europa.eu/map-explorer) - Visualizing EU railway infrastructure.
 * [Route Compatibility Check](https://data-interop.era.europa.eu/route-compatibility) - Route compatibility check of vehicle types against railway infrastructure.
 
@@ -74,7 +73,7 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.  
-Some of the content were copied from other awesome lists:  
+Some of the content were copied from other awesome lists
 
 
 ## License
