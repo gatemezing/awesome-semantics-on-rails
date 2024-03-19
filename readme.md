@@ -31,7 +31,7 @@
 ### Academic Papers
 
 * [Rail Topology Ontology](https://arxiv.org/abs/2107.04378) - Rail Topology Ontology: A Rail Infrastructure Base Ontology.
-* 
+* [Semantic RSM](https://github.com/UICrail/SemanticRSM) - RSM refoundation, based on direct RDF/OWL modelling
 
 
 ## Knowledge Graphs
@@ -62,7 +62,8 @@
 
 ### Community Effort
 
-* [Ontorail project](https://app.ontorail.org/ontorail) - UIC project with a web application listing some conversions to semantics and glossaries
+* [Ontorail project](https://app.ontorail.org/ontorail) - UIC project with a web application listing some conversions to semantics and glossaries.
+
 
 
 
