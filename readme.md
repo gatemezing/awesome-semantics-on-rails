@@ -18,6 +18,7 @@
     - [Community Effort](#community-effort)
   - [Conferences](#conferences)
     - [Railways conferences](#railways-conferences)
+  - [Interfacing data models](#interfacing-data-models) 
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -75,6 +76,15 @@
 * [RailML Conference](https://www.railml.org/en/public-relations/news/reader/44th-railml-conference.html) - RailML conference
 * [SEMIC](https://joinup.ec.europa.eu/collection/semic-support-centre/semic-conference) - EU SEMIC conference
   
+
+
+## Interfacing Data Models
+
+### UIC
+
+* [OSDM](https://github.com/UnionInternationalCheminsdeFer/OSDM/)
+* [SFERA](https://uic.org/com/enews/article/the-sfera-project-opens-a-new-user-group)
+
 
 
 ## Contribute
