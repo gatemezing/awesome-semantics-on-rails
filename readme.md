@@ -18,7 +18,9 @@
     - [Community Effort](#community-effort)
   - [Conferences](#conferences)
     - [Railways conferences](#railways-conferences)
-  - [Interfacing data models](#interfacing-data-models) 
+  - [Interfacing Data Models](#interfacing-data-models)
+    - [UIC](#uic)
+  - [Other Awesome](#other-awesome)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -67,7 +69,6 @@
 
 
 
-
 ## Conferences
 
 ### Railways conferences
@@ -86,6 +87,11 @@
 * [SFERA](https://uic.org/com/enews/article/the-sfera-project-opens-a-new-user-group)
 
 
+## Other Awesome
+* [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web)
+* [Awesome Knowledge Graph Construction Tools](https://github.com/kg-construct/awesome-kgc-tools)
+* [awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
+  
 
 ## Contribute
 
