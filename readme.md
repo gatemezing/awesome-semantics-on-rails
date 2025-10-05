@@ -83,6 +83,7 @@
      
 * [RailML Conference](https://www.railml.org/en/public-relations/news/reader/44th-railml-conference.html) - RailML conference
 * [SEMIC](https://joinup.ec.europa.eu/collection/semic-support-centre/semic-conference) - EU SEMIC conference
+* [Sem4Tra](https://semantic-transportation.github.io/sem4tra-kg-website/) - Semantic Data Space for Transport colocated with Semantics Conference
   
 
 ### Master Classes - Workshops
