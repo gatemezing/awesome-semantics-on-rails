@@ -18,6 +18,7 @@
     - [Community Effort](#community-effort)
   - [Conferences](#conferences)
     - [Railways conferences](#railways-conferences)
+    - [Master Classes - Workshops](#master-classes---workshops)
   - [Interfacing Data Models](#interfacing-data-models)
     - [UIC](#uic)
   - [Other Awesome](#other-awesome)
@@ -29,21 +30,23 @@
 ### Ontology Implementations
 
 * [ERA Ontology](https://data-interop.era.europa.eu/era-vocabulary/) - ERA ontology covering topology, railway infrastructure and vehicle types. The namespace URI for the ontology is `http://data.europa.eu/949/`
+* [Verified Permission Ontology](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/vpa-ontology) - ERA Verified Permissions ontology (with use cases vehicle (type) authorisations & vehicle registrations)
+
+* [Semantic RSM](https://github.com/UICrail/SemanticRSM) - RSM refoundation, based on direct RDF/OWL modelling
 
 
 ### Academic Papers
 
 * [Rail Topology Ontology](https://arxiv.org/abs/2107.04378) - Rail Topology Ontology: A Rail Infrastructure Base Ontology.
-* [Semantic RSM](https://github.com/UICrail/SemanticRSM) - RSM refoundation, based on direct RDF/OWL modelling
 
 
 ## Knowledge Graphs
 
-### Sparql Endpoints
+### SPARQL Endpoints
 
 * [ERA Endpoint](https://virtuoso.ecdp.tech.ec.europa.eu/sparql) - Sparql Endpoint of the European Union Agency for Railways containing more than 50 million triples of railway infrastructure and vehicle types. 
 * [Ontorail Endpoint](https://app.ontorail.org/graphdb/sparql) - Ontorail project Endpoint
-
+* [Catalogue of SPARQL queries](https://data-interop.era.europa.eu/data-stories) - List of useful SPARQL queries
 
 
 ### SHACL Rules
@@ -52,7 +55,8 @@
 
 ### SKOS Concepts
 
-* [ERA SKOS concepts](https://data-interop.era.europa.eu/era-vocabulary/skos/index.html) - ERA SKOS concepts used for the ERA KG.
+* [ERA SKOS concepts](https://data-interop.era.europa.eu/era-vocabulary/era-skos) - ERA SKOS concepts used for the ERA KG.
+
 
 ## Applications
 
@@ -73,11 +77,23 @@
 
 ### Railways conferences
 
-* [Rail Data Forum](https://www.era.europa.eu/content/rail-data-forum-2024) - powered by European Union Agency for Railways
+* [Rail Data Forum] - powered by European Union Agency for Railways
+     - 2024: https://www.era.europa.eu/content/rail-data-forum-2024 
+     - 2025: https://www.era.europa.eu/content/rail-data-forum-2025
+     
 * [RailML Conference](https://www.railml.org/en/public-relations/news/reader/44th-railml-conference.html) - RailML conference
 * [SEMIC](https://joinup.ec.europa.eu/collection/semic-support-centre/semic-conference) - EU SEMIC conference
   
 
+### Master Classes - Workshops
+
+* [SHACL validation](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/data-validation-masterclass) - Master class for SHACL at RDF 2025, Cuj, Romania.
+
+* [Railway Data Modelling](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/railway-data-modelling) - Workshop on railway modelling at RDF 2025, Cuj, Romania.
+
+* [SPARQL for beginners(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/sparql-for-beginners-masterclass) -Master class on SPARQL for beginners  at RDF 2025, Cuj, Romania.
+
+* [RDFisation(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cuj, Romania.
 
 ## Interfacing Data Models
 
