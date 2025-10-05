@@ -44,7 +44,7 @@
 
 ### SPARQL Endpoints
 
-* [ERA Endpoint](https://virtuoso.ecdp.tech.ec.europa.eu/sparql) - Sparql Endpoint of the European Union Agency for Railways containing more than 50 million triples of railway infrastructure and vehicle types. 
+* [ERA Endpoint](https://virtuoso.data.era.europa.eu/sparql) - Sparql Endpoint of the European Union Agency for Railways containing more than 50 million triples of railway infrastructure and vehicle types. 
 * [Ontorail Endpoint](https://app.ontorail.org/graphdb/sparql) - Ontorail project Endpoint
 * [Catalogue of SPARQL queries](https://data-interop.era.europa.eu/data-stories) - List of useful SPARQL queries
 
