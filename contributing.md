@@ -1,25 +1,32 @@
 # Contribution Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+Thanks for contributing to Awesome Semantics on Rails.
 
----
+## Scope
 
-Ensure your pull request adheres to the following guidelines:
+This list is for knowledge graphs, ontologies, tools, datasets, applications, and events that apply semantic web technology in the railways domain.
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+## How to add an item
 
-Thank you for your suggestions!
+1. Choose the most specific section that fits the item.
+2. Add a single bullet using the format `* [Name](URL) - Description.`
+3. Keep descriptions short (one sentence), neutral in tone, and free of marketing.
+4. Alphabetize entries within each section by the item name.
+5. Prefer official or canonical links and avoid URL shorteners.
+6. Check for duplicates; if an entry already exists, improve that entry instead.
+7. If you add a new section, also update the table of contents.
 
+## Quality bar
+
+- The resource should be publicly accessible.
+- The resource should be directly relevant to railways and semantic technologies.
+- Links should be stable and point to the primary source when possible.
+
+## Conduct
+
+Please be respectful and constructive in all project interactions. Harassment and abuse are not tolerated.
 
 ## Updating your PR
 
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+Maintainers may request changes before merging. There's no need to open a new PR, just update the existing one. If you're not sure how to do that, this guide may help:
+https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
