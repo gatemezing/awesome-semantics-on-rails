@@ -44,9 +44,9 @@
 
 ### SPARQL Endpoints
 
-* [ERA Endpoint](https://virtuoso.data.era.europa.eu/sparql) - Sparql Endpoint of the European Union Agency for Railways containing more than 50 million triples of railway infrastructure and vehicle types. 
+* [ERA Endpoint](https://graph.data.era.europa.eu/sparql) - Sparql Endpoint of the European Union Agency for Railways containing more than 50 million triples of railway infrastructure and vehicle types. 
 * [Ontorail Endpoint](https://app.ontorail.org/graphdb/sparql) - Ontorail project Endpoint
-* [Catalogue of SPARQL queries](https://data-interop.era.europa.eu/data-stories) - List of useful SPARQL queries
+* [Catalogue of SPARQL queries](https://data-interop.era.europa.eu/data-stories) - List of useful railway SPARQL queries
 
 
 ### SHACL Rules
@@ -65,7 +65,7 @@
 * [Infrastructure Search](https://data-interop.era.europa.eu/search) - Searching form of resources in the ERA endpoint.
 * [Map Explorer](https://data-interop.era.europa.eu/map-explorer) - Visualizing EU railway infrastructure.
 * [Route Compatibility Check](https://data-interop.era.europa.eu/route-compatibility) - Route compatibility check of vehicle types against railway infrastructure.
-* [Mat Data Yasgui](https://matdata-eu.github.io/yasgui-graph-plugin/) - YASGUI Graph Plugin Demo
+* [Mat Data Yasgui](https://matdata-eu.github.io/yasgui-graph-plugin/) - YASGUI Graph Plugin Demo.
 
 
 ### Community Effort
@@ -93,9 +93,9 @@
 
 * [Railway Data Modelling](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/railway-data-modelling) - Workshop on railway modelling at RDF 2025, Cuj, Romania.
 
-* [SPARQL for beginners](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/sparql-for-beginners-masterclass) - Master class on SPARQL for beginners at RDF 2025, Cuj, Romania.
+* [SPARQL for beginners(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/sparql-for-beginners-masterclass) -Master class on SPARQL for beginners  at RDF 2025, Cuj, Romania.
 
-* [RDFisation](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cuj, Romania.
+* [RDFisation(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cuj, Romania.
 
 ## Interfacing Data Models
 
