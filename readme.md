@@ -52,6 +52,7 @@
 ### SHACL Rules
 
 * [ERA SHACL Rules](https://data-interop.era.europa.eu/era-vocabulary/era-shapes) - ERA SHACL rules used for the ERA KG.
+* [ERA Extension CCS TMS validator resources](https://github.com/ISAITB/validator-resources-era-ccs-tms/tree/master) - SHACL validator resources for ERA CCS TMS.
 
 ### SKOS Concepts
 
@@ -65,6 +66,8 @@
 * [Infrastructure Search](https://data-interop.era.europa.eu/search) - Searching form of resources in the ERA endpoint.
 * [Map Explorer](https://data-interop.era.europa.eu/map-explorer) - Visualizing EU railway infrastructure.
 * [Route Compatibility Check](https://data-interop.era.europa.eu/route-compatibility) - Route compatibility check of vehicle types against railway infrastructure.
+* [Apache Jena Fuseki GeoSPARQL](https://github.com/Matdata-eu/apache-jena-fuseki-geosparql) - GeoSPARQL-enabled Fuseki deployment for spatial RDF data.
+* [RailML to ERA](https://github.com/Matdata-eu/raillML-to-ERA) - Conversion tooling from RailML to ERA data.
 * [Mat Data Yasgui](https://matdata-eu.github.io/yasgui-graph-plugin/) - YASGUI Graph Plugin Demo.
 
 
@@ -119,6 +122,6 @@ Some of the content were copied from other awesome lists
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Ghislain A. has waived all copyright and related or neighboring rights to this work.
