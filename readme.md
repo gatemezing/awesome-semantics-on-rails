@@ -92,13 +92,13 @@
 
 ### Master Classes - Workshops
 
-* [SHACL validation](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/data-validation-masterclass) - Master class for SHACL at RDF 2025, Cuj, Romania.
+* [SHACL validation](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/data-validation-masterclass) - Master class for SHACL at RDF 2025, Cluj, Romania.
 
-* [Railway Data Modelling](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/railway-data-modelling) - Workshop on railway modelling at RDF 2025, Cuj, Romania.
+* [Railway Data Modelling](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/railway-data-modelling) - Workshop on railway modelling at RDF 2025, Cluj, Romania.
 
-* [SPARQL for beginners(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/sparql-for-beginners-masterclass) -Master class on SPARQL for beginners  at RDF 2025, Cuj, Romania.
+* [SPARQL for beginners(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/sparql-for-beginners-masterclass) -Master class on SPARQL for beginners  at RDF 2025, Cluj, Romania.
 
-* [RDFisation(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cuj, Romania.
+* [RDFisation(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cluj, Romania.
 
 ## Interfacing Data Models
 
