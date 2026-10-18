@@ -16,6 +16,7 @@
   - [Applications](#applications)
     - [Generic Applications](#generic-applications)
     - [Community Effort](#community-effort)
+  - [Slides](#slides)
   - [Conferences](#conferences)
     - [Railways conferences](#railways-conferences)
     - [Master Classes - Workshops](#master-classes---workshops)
@@ -80,6 +81,16 @@
 * [Ontorail project](https://app.ontorail.org/ontorail) - UIC project with a web application listing some conversions to semantics and glossaries.
 
 
+## Slides
+
+* [Linked Data Introduction](https://matdata-eu.github.io/slides-linked-data-introduction/) - Introduction to linked data. [Source code](https://github.com/Matdata-eu/slides-linked-data-introduction) (last updated 2026-10-15).
+* [Railway Meso/Macro Topology](https://matdata-eu.github.io/slides-railway-meso-macro-topology/) - Operational points, primary locations, and sections of line in a mesoscopic railway topology. [Source code](https://github.com/Matdata-eu/slides-railway-meso-macro-topology) (last updated 2026-10-16).
+* [Railway Topology](https://matdata-eu.github.io/slides-railway-topology/) - RailTopoModel, railML 3, and ERA ontology concepts for railway infrastructure. [Source code](https://github.com/Matdata-eu/slides-railway-topology) (last updated 2026-10-16).
+* [RINF Data Provisioning](https://matdata-eu.github.io/slides-era-rinf-data-provisioning/) - Slides and guidance for building and publishing RINF data. [Source code](https://github.com/Matdata-eu/slides-era-rinf-data-provisioning) (last updated 2026-10-14).
+* [Telematics XSD to ERA Ontology](https://matdata-eu.github.io/slides-telematics-xsd-to-era-ontology/) - Slides on mapping telematics XSD data to the ERA ontology. [Source code](https://github.com/Matdata-eu/slides-telematics-xsd-to-era-ontology) (last updated 2026-10-16).
+* [Topology-Assisted Positioning](https://matdata-eu.github.io/slides-topology-assisted-positioning/) - Linear positioning systems and position concepts in RailTopoModel and railML 3. [Source code](https://github.com/Matdata-eu/slides-topology-assisted-positioning) (last updated 2026-10-17).
+* [W3C Facade-X](https://matdata-eu.github.io/Slides-W3C-Facade-X/) - BaneNOR's experience with SPARQL-Anything, presented to the W3C Facade-X Community Group. [Source code](https://github.com/Matdata-eu/Slides-W3C-Facade-X) (last updated 2026-10-15).
+
 
 ## Conferences
 
@@ -105,6 +116,7 @@
 * [RDFisation](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cluj, Romania.
 
 ## Other Awesome
+* [Awesome SHACL Resources](https://github.com/semantalytics/awesome-semantic-web#shacl) - SHACL specifications, extensions, test suites, and implementations.
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web)
 * [Awesome Knowledge Graph Construction Tools](https://github.com/kg-construct/awesome-kgc-tools)
 * [awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
