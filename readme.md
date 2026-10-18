@@ -19,8 +19,6 @@
   - [Conferences](#conferences)
     - [Railways conferences](#railways-conferences)
     - [Master Classes - Workshops](#master-classes---workshops)
-  - [Interfacing Data Models](#interfacing-data-models)
-    - [UIC](#uic)
   - [Other Awesome](#other-awesome)
   - [Contribute](#contribute)
   - [License](#license)
@@ -63,13 +61,17 @@
 
 ### Generic Applications
 
-* [Infrastructure Search](https://data-interop.era.europa.eu/search) - Searching form of resources in the ERA endpoint.
-* [Map Explorer](https://data-interop.era.europa.eu/map-explorer) - Visualizing EU railway infrastructure.
-* [Route Compatibility Check](https://data-interop.era.europa.eu/route-compatibility) - Route compatibility check of vehicle types against railway infrastructure.
 * [Apache Jena Fuseki GeoSPARQL](https://github.com/Matdata-eu/apache-jena-fuseki-geosparql) - GeoSPARQL-enabled Fuseki deployment for spatial RDF data.
+* [Infrastructure Search](https://data-interop.era.europa.eu/search) - Search resources in the ERA endpoint.
+* [Virtuoso Faceted Browser](https://github.com/openlink/virtuoso-opensource) - Explore linked data using OpenLink Software's faceted browser (OpenLink was founded by Kingsley Idehen).
+* [Map Explorer](https://data-interop.era.europa.eu/map-explorer) - Visualize EU railway infrastructure.
+* [MatGUI](https://github.com/Matdata-eu/MatGUI) - Knowledge graph and SPARQL workbench.
+* [RINF Atlas](https://github.com/Matdata-eu/rinf-atlas) - Map and faceted search over the ERA Register of Infrastructure (RINF).
 * [RailML to ERA](https://github.com/Matdata-eu/raillML-to-ERA) - Conversion tooling from RailML to ERA data.
-* [Mat Data Yasgui](https://matdata-eu.github.io/yasgui-graph-plugin/) - YASGUI Graph Plugin Demo.
-
+* [RINF Routebook](https://github.com/Matdata-eu/rinf-routebook) - Explore railway routes and infrastructure details using public ERA RINF data.
+* [Route Compatibility Check](https://data-interop.era.europa.eu/route-compatibility) - Check vehicle-type compatibility with railway infrastructure.
+* [TP-Lib](https://github.com/Matdata-eu/tp-lib) - Post-process GNSS coordinates onto a railway network.
+* [YASGUI Graph Plugin](https://matdata-eu.github.io/yasgui-graph-plugin/) - Visualize SPARQL query results as a graph.
 
 ### Community Effort
 
@@ -81,13 +83,13 @@
 
 ### Railways conferences
 
-* [Rail Data Forum] - powered by European Union Agency for Railways
-     - 2024: https://www.era.europa.eu/content/rail-data-forum-2024 
-     - 2025: https://www.era.europa.eu/content/rail-data-forum-2025
-     
+* Rail Data Forum - Powered by the European Union Agency for Railways.
+     - 2024: [Rail Data Forum 2024](https://www.era.europa.eu/content/rail-data-forum-2024)
+     - 2025: [Rail Data Forum 2025](https://www.era.europa.eu/content/rail-data-forum-2025) - Cluj-Napoca, Romania.
 * [RailML Conference](https://www.railml.org/en/public-relations/news/reader/44th-railml-conference.html) - RailML conference
 * [SEMIC](https://joinup.ec.europa.eu/collection/semic-support-centre/semic-conference) - EU SEMIC conference
-* [Sem4Tra](https://semantic-transportation.github.io/sem4tra-kg-website/) - Semantic Data Space for Transport colocated with Semantics Conference
+* [Sem4Tra](https://semantic-transportation.github.io/sem4tra-kg-website/) - International Workshop on Semantics for Transport and Logistics, colocated with the SEMANTiCS Conference.
+     - 2026: [Paper and workshop materials](https://github.com/Matdata-eu/paper-sem4tra2026) - Seventh workshop, held in Ghent on 15 September 2026.
   
 
 ### Master Classes - Workshops
@@ -96,17 +98,9 @@
 
 * [Railway Data Modelling](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/railway-data-modelling) - Workshop on railway modelling at RDF 2025, Cluj, Romania.
 
-* [SPARQL for beginners(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/sparql-for-beginners-masterclass) -Master class on SPARQL for beginners  at RDF 2025, Cluj, Romania.
+* [SPARQL for beginners](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/sparql-for-beginners-masterclass) - Master class on SPARQL for beginners at RDF 2025, Cluj, Romania.
 
-* [RDFisation(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cluj, Romania.
-
-## Interfacing Data Models
-
-### UIC
-
-* [OSDM](https://github.com/UnionInternationalCheminsdeFer/OSDM/)
-* [SFERA](https://uic.org/com/enews/article/the-sfera-project-opens-a-new-user-group)
-
+* [RDFisation](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cluj, Romania.
 
 ## Other Awesome
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web)
