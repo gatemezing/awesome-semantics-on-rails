@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | escape }}">
+    <title>{{ page.title | default: site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-brand" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+      <a class="source-link" href="https://github.com/gatemezing/awesome-semantics-on-rails">View source on GitHub</a>
+    </header>
+    <main class="content">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      Curated community resource list. <a href="https://github.com/gatemezing/awesome-semantics-on-rails">Contributions welcome</a>.
+    </footer>
+  </body>
+</html>
