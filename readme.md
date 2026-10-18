@@ -27,7 +27,7 @@
 
 ### Ontology Implementations
 
-* [ERA Ontology](https://data-interop.era.europa.eu/era-vocabulary/) - ERA ontology covering topology, railway infrastructure and vehicle types. The namespace URI for the ontology is `http://data.europa.eu/949/`
+* [ERA Ontology](https://rinf.data.era.europa.eu/era-vocabulary/) - ERA ontology covering topology, railway infrastructure and vehicle types. The namespace URI for the ontology is `http://data.europa.eu/949/`
 * [Verified Permission Ontology](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/vpa-ontology) - ERA Verified Permissions ontology (with use cases vehicle (type) authorisations & vehicle registrations)
 
 * [Semantic RSM](https://github.com/UICrail/SemanticRSM) - RSM refoundation, based on direct RDF/OWL modelling
@@ -44,17 +44,17 @@
 
 * [ERA Endpoint](https://graph.data.era.europa.eu/sparql) - Sparql Endpoint of the European Union Agency for Railways containing more than 50 million triples of railway infrastructure and vehicle types. 
 * [Ontorail Endpoint](https://app.ontorail.org/graphdb/sparql) - Ontorail project Endpoint
-* [Catalogue of SPARQL queries](https://data-interop.era.europa.eu/data-stories) - List of useful railway SPARQL queries
+* [Catalogue of SPARQL queries](https://rinf.data.era.europa.eu/data-stories) - List of useful railway SPARQL queries
 
 
 ### SHACL Rules
 
-* [ERA SHACL Rules](https://data-interop.era.europa.eu/era-vocabulary/era-shapes) - ERA SHACL rules used for the ERA KG.
+* [ERA SHACL Rules](https://rinf.data.era.europa.eu/era-vocabulary/era-shapes) - ERA SHACL rules used for the ERA KG.
 * [ERA Extension CCS TMS validator resources](https://github.com/ISAITB/validator-resources-era-ccs-tms/tree/master) - SHACL validator resources for ERA CCS TMS.
 
 ### SKOS Concepts
 
-* [ERA SKOS concepts](https://data-interop.era.europa.eu/era-vocabulary/era-skos) - ERA SKOS concepts used for the ERA KG.
+* [ERA SKOS concepts](https://rinf.data.era.europa.eu/era-vocabulary/era-skos) - ERA SKOS concepts used for the ERA KG.
 
 
 ## Applications
@@ -62,14 +62,16 @@
 ### Generic Applications
 
 * [Apache Jena Fuseki GeoSPARQL](https://github.com/Matdata-eu/apache-jena-fuseki-geosparql) - GeoSPARQL-enabled Fuseki deployment for spatial RDF data.
-* [Infrastructure Search](https://data-interop.era.europa.eu/search) - Search resources in the ERA endpoint.
-* [Virtuoso Faceted Browser](https://github.com/openlink/virtuoso-opensource) - Explore linked data using OpenLink Software's faceted browser (OpenLink was founded by Kingsley Idehen).
-* [Map Explorer](https://data-interop.era.europa.eu/map-explorer) - Visualize EU railway infrastructure.
+* [ERA Ontology browser](https://rinf.data.era.europa.eu/era-vocabulary/) - Browse the ERA railway ontology and vocabulary. [Source code](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/era-ontology) (last updated 2026-10-16).
+* [Infrastructure Search](https://rinf.data.era.europa.eu/search) - Search resources in the ERA endpoint.
+* [Virtuoso Faceted Browser](https://linkeddata.uriburner.com/DAV/demos/daas/sparql-faceted-browser-claude_opus_5_5.html) - Faceted browsing demo for RINF data. [Source code](https://github.com/openlink/virtuoso-opensource) (last updated 2026-10-12).
+* [Map Explorer](https://rinf.data.era.europa.eu/map-explorer) - Visualize EU railway infrastructure.
 * [MatGUI](https://github.com/Matdata-eu/MatGUI) - Knowledge graph and SPARQL workbench.
+* [RINF Application Guide](https://rinf.data.era.europa.eu/era-vocabulary/rinf-appGuide/) - Browse RINF technical parameters. [Source code](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/technical-documents/rinf-application-guide-technical-annex) (last updated 2026-10-07).
 * [RINF Atlas](https://github.com/Matdata-eu/rinf-atlas) - Map and faceted search over the ERA Register of Infrastructure (RINF).
 * [RailML to ERA](https://github.com/Matdata-eu/raillML-to-ERA) - Conversion tooling from RailML to ERA data.
 * [RINF Routebook](https://github.com/Matdata-eu/rinf-routebook) - Explore railway routes and infrastructure details using public ERA RINF data.
-* [Route Compatibility Check](https://data-interop.era.europa.eu/route-compatibility) - Check vehicle-type compatibility with railway infrastructure.
+* [Route Compatibility Check](https://rinf.data.era.europa.eu/route-compatibility) - Check vehicle-type compatibility with railway infrastructure.
 * [TP-Lib](https://github.com/Matdata-eu/tp-lib) - Post-process GNSS coordinates onto a railway network.
 * [YASGUI Graph Plugin](https://matdata-eu.github.io/yasgui-graph-plugin/) - Visualize SPARQL query results as a graph.
 
