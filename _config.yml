@@ -1,0 +1,5 @@
+title: Awesome Semantics on Rails
+description: A curated list of knowledge graphs, projects, resources, and initiatives applying semantic web technology in the railways domain.
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
