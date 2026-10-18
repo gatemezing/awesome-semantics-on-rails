@@ -16,11 +16,10 @@
   - [Applications](#applications)
     - [Generic Applications](#generic-applications)
     - [Community Effort](#community-effort)
+  - [Slides](#slides)
   - [Conferences](#conferences)
     - [Railways conferences](#railways-conferences)
     - [Master Classes - Workshops](#master-classes---workshops)
-  - [Interfacing Data Models](#interfacing-data-models)
-    - [UIC](#uic)
   - [Other Awesome](#other-awesome)
   - [Contribute](#contribute)
   - [License](#license)
@@ -29,7 +28,7 @@
 
 ### Ontology Implementations
 
-* [ERA Ontology](https://data-interop.era.europa.eu/era-vocabulary/) - ERA ontology covering topology, railway infrastructure and vehicle types. The namespace URI for the ontology is `http://data.europa.eu/949/`
+* [ERA Ontology](https://rinf.data.era.europa.eu/era-vocabulary/) - ERA ontology covering topology, railway infrastructure and vehicle types. The namespace URI for the ontology is `http://data.europa.eu/949/`
 * [Verified Permission Ontology](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/vpa-ontology) - ERA Verified Permissions ontology (with use cases vehicle (type) authorisations & vehicle registrations)
 
 * [Semantic RSM](https://github.com/UICrail/SemanticRSM) - RSM refoundation, based on direct RDF/OWL modelling
@@ -46,48 +45,64 @@
 
 * [ERA Endpoint](https://graph.data.era.europa.eu/sparql) - Sparql Endpoint of the European Union Agency for Railways containing more than 50 million triples of railway infrastructure and vehicle types. 
 * [Ontorail Endpoint](https://app.ontorail.org/graphdb/sparql) - Ontorail project Endpoint
-* [Catalogue of SPARQL queries](https://data-interop.era.europa.eu/data-stories) - List of useful railway SPARQL queries
+* [Catalogue of SPARQL queries](https://rinf.data.era.europa.eu/data-stories) - List of useful railway SPARQL queries
 
 
 ### SHACL Rules
 
-* [ERA SHACL Rules](https://data-interop.era.europa.eu/era-vocabulary/era-shapes) - ERA SHACL rules used for the ERA KG.
+* [ERA SHACL Rules](https://rinf.data.era.europa.eu/era-vocabulary/era-shapes) - ERA SHACL rules used for the ERA KG.
 * [ERA Extension CCS TMS validator resources](https://github.com/ISAITB/validator-resources-era-ccs-tms/tree/master) - SHACL validator resources for ERA CCS TMS.
 
 ### SKOS Concepts
 
-* [ERA SKOS concepts](https://data-interop.era.europa.eu/era-vocabulary/era-skos) - ERA SKOS concepts used for the ERA KG.
+* [ERA SKOS concepts](https://rinf.data.era.europa.eu/era-vocabulary/era-skos) - ERA SKOS concepts used for the ERA KG.
 
 
 ## Applications
 
 ### Generic Applications
 
-* [Infrastructure Search](https://data-interop.era.europa.eu/search) - Searching form of resources in the ERA endpoint.
-* [Map Explorer](https://data-interop.era.europa.eu/map-explorer) - Visualizing EU railway infrastructure.
-* [Route Compatibility Check](https://data-interop.era.europa.eu/route-compatibility) - Route compatibility check of vehicle types against railway infrastructure.
 * [Apache Jena Fuseki GeoSPARQL](https://github.com/Matdata-eu/apache-jena-fuseki-geosparql) - GeoSPARQL-enabled Fuseki deployment for spatial RDF data.
+* [ERA Ontology browser](https://rinf.data.era.europa.eu/era-vocabulary/) - Browse the ERA railway ontology and vocabulary. [Source code](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/era-ontology) (last updated 2026-10-16).
+* [Infrastructure Search](https://rinf.data.era.europa.eu/search) - Search resources in the ERA endpoint.
+* [Virtuoso Faceted Browser](https://linkeddata.uriburner.com/DAV/demos/daas/sparql-faceted-browser-claude_opus_5_5.html) - Faceted browsing demo for RINF data. [Source code](https://github.com/openlink/virtuoso-opensource) (last updated 2026-10-12).
+* [Map Explorer](https://rinf.data.era.europa.eu/map-explorer) - Visualize EU railway infrastructure.
+* [MatGUI](https://github.com/Matdata-eu/MatGUI) - Knowledge graph and SPARQL workbench.
+* [RINF Application Guide](https://rinf.data.era.europa.eu/era-vocabulary/rinf-appGuide/) - Browse RINF technical parameters. [Source code](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/technical-documents/rinf-application-guide-technical-annex) (last updated 2026-10-07).
+* [RINF Atlas](https://github.com/Matdata-eu/rinf-atlas) - Map and faceted search over the ERA Register of Infrastructure (RINF).
 * [RailML to ERA](https://github.com/Matdata-eu/raillML-to-ERA) - Conversion tooling from RailML to ERA data.
-* [Mat Data Yasgui](https://matdata-eu.github.io/yasgui-graph-plugin/) - YASGUI Graph Plugin Demo.
-
+* [RINF Routebook](https://github.com/Matdata-eu/rinf-routebook) - Explore railway routes and infrastructure details using public ERA RINF data.
+* [Route Compatibility Check](https://rinf.data.era.europa.eu/route-compatibility) - Check vehicle-type compatibility with railway infrastructure.
+* [TP-Lib](https://github.com/Matdata-eu/tp-lib) - Post-process GNSS coordinates onto a railway network.
+* [YASGUI Graph Plugin](https://matdata-eu.github.io/yasgui-graph-plugin/) - Visualize SPARQL query results as a graph.
 
 ### Community Effort
 
 * [Ontorail project](https://app.ontorail.org/ontorail) - UIC project with a web application listing some conversions to semantics and glossaries.
 
 
+## Slides
+
+* [Linked Data Introduction](https://matdata-eu.github.io/slides-linked-data-introduction/) - Introduction to linked data. [Source code](https://github.com/Matdata-eu/slides-linked-data-introduction) (last updated 2026-10-15).
+* [Railway Meso/Macro Topology](https://matdata-eu.github.io/slides-railway-meso-macro-topology/) - Operational points, primary locations, and sections of line in a mesoscopic railway topology. [Source code](https://github.com/Matdata-eu/slides-railway-meso-macro-topology) (last updated 2026-10-16).
+* [Railway Topology](https://matdata-eu.github.io/slides-railway-topology/) - RailTopoModel, railML 3, and ERA ontology concepts for railway infrastructure. [Source code](https://github.com/Matdata-eu/slides-railway-topology) (last updated 2026-10-16).
+* [RINF Data Provisioning](https://matdata-eu.github.io/slides-era-rinf-data-provisioning/) - Slides and guidance for building and publishing RINF data. [Source code](https://github.com/Matdata-eu/slides-era-rinf-data-provisioning) (last updated 2026-10-14).
+* [Telematics XSD to ERA Ontology](https://matdata-eu.github.io/slides-telematics-xsd-to-era-ontology/) - Slides on mapping telematics XSD data to the ERA ontology. [Source code](https://github.com/Matdata-eu/slides-telematics-xsd-to-era-ontology) (last updated 2026-10-16).
+* [Topology-Assisted Positioning](https://matdata-eu.github.io/slides-topology-assisted-positioning/) - Linear positioning systems and position concepts in RailTopoModel and railML 3. [Source code](https://github.com/Matdata-eu/slides-topology-assisted-positioning) (last updated 2026-10-17).
+* [W3C Facade-X](https://matdata-eu.github.io/Slides-W3C-Facade-X/) - BaneNOR's experience with SPARQL-Anything, presented to the W3C Facade-X Community Group. [Source code](https://github.com/Matdata-eu/Slides-W3C-Facade-X) (last updated 2026-10-15).
+
 
 ## Conferences
 
 ### Railways conferences
 
-* [Rail Data Forum] - powered by European Union Agency for Railways
-     - 2024: https://www.era.europa.eu/content/rail-data-forum-2024 
-     - 2025: https://www.era.europa.eu/content/rail-data-forum-2025
-     
+* Rail Data Forum - Powered by the European Union Agency for Railways.
+     - 2024: [Rail Data Forum 2024](https://www.era.europa.eu/content/rail-data-forum-2024)
+     - 2025: [Rail Data Forum 2025](https://www.era.europa.eu/content/rail-data-forum-2025) - Cluj-Napoca, Romania.
 * [RailML Conference](https://www.railml.org/en/public-relations/news/reader/44th-railml-conference.html) - RailML conference
 * [SEMIC](https://joinup.ec.europa.eu/collection/semic-support-centre/semic-conference) - EU SEMIC conference
-* [Sem4Tra](https://semantic-transportation.github.io/sem4tra-kg-website/) - Semantic Data Space for Transport colocated with Semantics Conference
+* [Sem4Tra](https://semantic-transportation.github.io/sem4tra-kg-website/) - International Workshop on Semantics for Transport and Logistics, colocated with the SEMANTiCS Conference.
+     - 2026: [Paper and workshop materials](https://github.com/Matdata-eu/paper-sem4tra2026) - Seventh workshop, held in Ghent on 15 September 2026.
   
 
 ### Master Classes - Workshops
@@ -96,19 +111,12 @@
 
 * [Railway Data Modelling](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/railway-data-modelling) - Workshop on railway modelling at RDF 2025, Cluj, Romania.
 
-* [SPARQL for beginners(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/sparql-for-beginners-masterclass) -Master class on SPARQL for beginners  at RDF 2025, Cluj, Romania.
+* [SPARQL for beginners](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/sparql-for-beginners-masterclass) - Master class on SPARQL for beginners at RDF 2025, Cluj, Romania.
 
-* [RDFisation(https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cluj, Romania.
-
-## Interfacing Data Models
-
-### UIC
-
-* [OSDM](https://github.com/UnionInternationalCheminsdeFer/OSDM/)
-* [SFERA](https://uic.org/com/enews/article/the-sfera-project-opens-a-new-user-group)
-
+* [RDFisation](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/rail-data-forum-2025/rdfisation-masterclass) - Master class on RDF conversion using YARRRML/RML at RDF 2025, Cluj, Romania.
 
 ## Other Awesome
+* [Awesome SHACL Resources](https://github.com/semantalytics/awesome-semantic-web#shacl) - SHACL specifications, extensions, test suites, and implementations.
 * [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web)
 * [Awesome Knowledge Graph Construction Tools](https://github.com/kg-construct/awesome-kgc-tools)
 * [awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
