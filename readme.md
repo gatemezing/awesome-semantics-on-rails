@@ -68,12 +68,16 @@
 * [Virtuoso Faceted Browser](https://linkeddata.uriburner.com/DAV/demos/daas/sparql-faceted-browser-claude_opus_5_5.html) - Faceted browsing demo for RINF data. [Source code](https://github.com/openlink/virtuoso-opensource) (last updated 2026-10-12).
 * [Map Explorer](https://rinf.data.era.europa.eu/map-explorer) - Visualize EU railway infrastructure.
 * [MatGUI](https://github.com/Matdata-eu/MatGUI) - Knowledge graph and SPARQL workbench.
+* [Ontology Explorer](https://matdata-eu.github.io/ontology-explorer/) - Browse ontologies, SKOS vocabularies and SHACL shapes such as the ERA vocabulary and the railML ontology as UML-like diagrams and class pages. [Source code](https://github.com/Matdata-eu/ontology-explorer) (last updated 2026-10-18).
+* [RDF Data Manager](https://matdata-eu.github.io/rdf-data-manager/?demo=showcase) - Edit RDF data over a SPARQL endpoint with forms generated from SHACL/DASH shapes, demonstrated on a small railway network. [Source code](https://github.com/Matdata-eu/rdf-data-manager) (last updated 2026-10-17).
 * [RINF Application Guide](https://rinf.data.era.europa.eu/era-vocabulary/rinf-appGuide/) - Browse RINF technical parameters. [Source code](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/technical-documents/rinf-application-guide-technical-annex) (last updated 2026-10-07).
 * [RINF Atlas](https://github.com/Matdata-eu/rinf-atlas) - Map and faceted search over the ERA Register of Infrastructure (RINF).
 * [RailML to ERA](https://github.com/Matdata-eu/raillML-to-ERA) - Conversion tooling from RailML to ERA data.
 * [RINF Routebook](https://github.com/Matdata-eu/rinf-routebook) - Explore railway routes and infrastructure details using public ERA RINF data.
 * [Route Compatibility Check](https://rinf.data.era.europa.eu/route-compatibility) - Check vehicle-type compatibility with railway infrastructure.
+* [SHACL Report](https://shacl-report.matdata.eu/) - Validate RDF data such as ERA RINF data against SHACL shapes and explore the violations in a readable report. [Source code](https://github.com/Matdata-eu/shacl-report) (last updated 2026-10-18).
 * [TP-Lib](https://github.com/Matdata-eu/tp-lib) - Post-process GNSS coordinates onto a railway network.
+* [YASGUI Geo Plugin](https://github.com/Matdata-eu/yasgui-geo-plugin) - Show WKT geometries from SPARQL query results on a map, with an OpenRailwayMap overlay.
 * [YASGUI Graph Plugin](https://matdata-eu.github.io/yasgui-graph-plugin/) - Visualize SPARQL query results as a graph.
 
 ### Community Effort
@@ -88,6 +92,7 @@
 * [Railway Topology](https://matdata-eu.github.io/slides-railway-topology/) - RailTopoModel, railML 3, and ERA ontology concepts for railway infrastructure. [Source code](https://github.com/Matdata-eu/slides-railway-topology) (last updated 2026-10-16).
 * [RINF Data Provisioning](https://matdata-eu.github.io/slides-era-rinf-data-provisioning/) - Slides and guidance for building and publishing RINF data. [Source code](https://github.com/Matdata-eu/slides-era-rinf-data-provisioning) (last updated 2026-10-14).
 * [Telematics XSD to ERA Ontology](https://matdata-eu.github.io/slides-telematics-xsd-to-era-ontology/) - Slides on mapping telematics XSD data to the ERA ontology. [Source code](https://github.com/Matdata-eu/slides-telematics-xsd-to-era-ontology) (last updated 2026-10-16).
+* [Topology from Scratch](https://matdata-eu.github.io/slides-topology-from-scratch/) - Building a railway micro topology from scratch: nodes, sources, pitfalls, quality checks, and maintenance. [Source code](https://github.com/Matdata-eu/slides-topology-from-scratch) (last updated 2026-10-19).
 * [Topology-Assisted Positioning](https://matdata-eu.github.io/slides-topology-assisted-positioning/) - Linear positioning systems and position concepts in RailTopoModel and railML 3. [Source code](https://github.com/Matdata-eu/slides-topology-assisted-positioning) (last updated 2026-10-17).
 * [W3C Facade-X](https://matdata-eu.github.io/Slides-W3C-Facade-X/) - BaneNOR's experience with SPARQL-Anything, presented to the W3C Facade-X Community Group. [Source code](https://github.com/Matdata-eu/Slides-W3C-Facade-X) (last updated 2026-10-15).
 
