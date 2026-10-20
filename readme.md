@@ -8,6 +8,7 @@
   - [Contents](#contents)
   - [Ontologies](#ontologies)
     - [Ontology Implementations](#ontology-implementations)
+    - [Transport and Mobility Ontologies](#transport-and-mobility-ontologies)
     - [Academic Papers](#academic-papers)
   - [Knowledge Graphs](#knowledge-graphs)
     - [SPARQL Endpoints](#sparql-endpoints)
@@ -15,6 +16,7 @@
     - [SKOS Concepts](#skos-concepts)
   - [Applications](#applications)
     - [Generic Applications](#generic-applications)
+    - [Tools and Libraries](#tools-and-libraries)
     - [Community Effort](#community-effort)
   - [Slides](#slides)
   - [Conferences](#conferences)
@@ -29,22 +31,26 @@
 ### Ontology Implementations
 
 * [ERA Ontology](https://rinf.data.era.europa.eu/era-vocabulary/) - ERA ontology covering topology, railway infrastructure and vehicle types. The namespace URI for the ontology is `http://data.europa.eu/949/`
-* [Linked Connections Ontology](https://lovportal.lirmm.fr/ontologies/LC) - Describes connections between transit stops so timetables can be published as Linked Data. The namespace URI is `http://semweb.mmlab.be/ns/linkedconnections#`
-* [Linked GTFS](https://github.com/OpenTransport/vocabulary) - The General Transit Feed Specification expressed as an RDF vocabulary. The namespace URI is `http://vocab.gtfs.org/terms#`
 * [railML Ontology](https://ontology.railml.org/) - Ontology of railML 3.2/3.3 and RailTopoModel 1.4 concepts for infrastructure, timetable, and rolling stock.
 * [Verified Permission Ontology](https://gitlab.com/era-europa-eu/public/interoperable-data-programme/era-ontology/vpa-ontology) - ERA Verified Permissions ontology (with use cases vehicle (type) authorisations & vehicle registrations)
 
 * [Semantic RSM](https://github.com/UICrail/SemanticRSM) - RSM refoundation, based on direct RDF/OWL modelling
 
 
+### Transport and Mobility Ontologies
+
+* [Linked Connections Ontology](https://lovportal.lirmm.fr/ontologies/LC) - Public transport vocabulary for publishing train and other transit timetables as Linked Data, one connection between two stops at a time. The namespace URI is `http://semweb.mmlab.be/ns/linkedconnections#`
+* [Linked GTFS](https://github.com/OpenTransport/vocabulary) - GTFS, the feed format many railway operators use to publish timetables, as an RDF vocabulary. The namespace URI is `http://vocab.gtfs.org/terms#`
+
+
 ### Academic Papers
 
-* [Leveraging semantic technologies for digital interoperability in the European Railway domain](https://julianrojas.org/papers/iswc2021-in-use/) - ERA ontology and knowledge graph, ISWC 2021 in-use track.
-* [On Linking Heterogeneous Railway Knowledge Graphs](https://ceur-ws.org/Vol-4064/Sem4Tra-paper1.pdf) - Challenges in aligning ERA and OpenStreetMap rail infrastructure data, Sem4Tra 2025.
-* [RaCoOn Ontology](https://doi.org/10.1061/AJRUA6.0000859) - Enabling data integration in the rail industry using RDF and OWL.
-* [Rail Topology Ontology](https://arxiv.org/abs/2107.04378) - Rail Topology Ontology: A Rail Infrastructure Base Ontology.
-* [Railway track video Knowledge Base](https://ceur-ws.org/Vol-3632/ISWC2023_paper_501.pdf) - Knowledge graph linking railway infrastructure data to track videos, ISWC 2023.
-* [Towards a Railway Topology Ontology](https://ceur-ws.org/Vol-2721/paper588.pdf) - Poster that introduced the Rail Topology Ontology for integrating rail data silos, ISWC 2020.
+* [Leveraging semantic technologies for digital interoperability in the European Railway domain](https://julianrojas.org/papers/iswc2021-in-use/) - The ERA ontology and knowledge graph in use. ISWC, 2021.
+* [On Linking Heterogeneous Railway Knowledge Graphs](https://ceur-ws.org/Vol-4064/Sem4Tra-paper1.pdf) - Challenges in aligning ERA and OpenStreetMap rail infrastructure data. Sem4Tra workshop at SEMANTiCS, 2025.
+* [RaCoOn Ontology](https://doi.org/10.1061/AJRUA6.0000859) - Enabling data integration in the rail industry using RDF and OWL. ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, 2017.
+* [Rail Topology Ontology](https://arxiv.org/abs/2107.04378) - Rail Topology Ontology: A Rail Infrastructure Base Ontology. ISWC, 2021.
+* [Railway track video Knowledge Base](https://ceur-ws.org/Vol-3632/ISWC2023_paper_501.pdf) - Knowledge graph linking railway infrastructure data to track videos. ISWC Posters, Demos and Industry Tracks, 2023.
+* [Towards a Railway Topology Ontology](https://ceur-ws.org/Vol-2721/paper588.pdf) - Poster that introduced the Rail Topology Ontology for integrating rail data silos. ISWC Posters, Demos and Industry Tracks, 2020.
 
 
 ## Knowledge Graphs
@@ -80,10 +86,13 @@
 * [RINF Atlas](https://github.com/Matdata-eu/rinf-atlas) - Map and faceted search over the ERA Register of Infrastructure (RINF).
 * [RailML to ERA](https://github.com/Matdata-eu/raillML-to-ERA) - Conversion tooling from RailML to ERA data.
 * [RINF Routebook](https://github.com/Matdata-eu/rinf-routebook) - Explore railway routes and infrastructure details using public ERA RINF data.
-* [RInfData](https://github.com/bergmannjg/RInfData) - F# tooling to access ERA RINF data through the ERA knowledge graph.
 * [Route Compatibility Check](https://rinf.data.era.europa.eu/route-compatibility) - Check vehicle-type compatibility with railway infrastructure.
 * [TP-Lib](https://github.com/Matdata-eu/tp-lib) - Post-process GNSS coordinates onto a railway network.
 * [YASGUI Graph Plugin](https://matdata-eu.github.io/yasgui-graph-plugin/) - Visualize SPARQL query results as a graph.
+
+### Tools and Libraries
+
+* [RInfData](https://github.com/bergmannjg/RInfData) - F# tooling to access ERA RINF data through the ERA knowledge graph.
 
 ### Community Effort
 
